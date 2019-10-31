@@ -1,0 +1,19 @@
+{
+  "name": "es6-review",
+  "version": "1.0.0",
+  "description": "ISM 210 Class Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinazaaa/ES6-Review.git"
+  },
+  "author": "naza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chinazaaa/ES6-Review/issues"
+  },
+  "homepage": "https://github.com/chinazaaa/ES6-Review#readme"
+}
